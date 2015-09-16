@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:30.648288
+#+DATE: 2015-08-30 20:57:31.695697
 #+TITLE: 十八空論
 #+PROPERTY: CBETA_ID T31n1616
 #+PROPERTY: ID KR6n0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1616
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0074_T_000-0861a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0074_T_001-0861a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1616¶
-
- 十八空論(亦十六亦十八亦十四亦十七)¶
+No. 1616¶
+十八空論(亦十六亦十八亦十四亦十七)¶
 ¶
 龍樹菩薩造¶
 陳天竺三藏真諦譯¶

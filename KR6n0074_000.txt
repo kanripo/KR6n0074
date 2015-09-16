@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十八空論
+#+DATE: 2015-08-30 20:57:30.848249
+#+PROPERTY: JUAN 0
